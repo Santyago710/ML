@@ -279,10 +279,10 @@ Despite this, some models achieved positive rewards, indicating the agent starte
 ---
 
 # Authors
-
-David Buitrago
-Cristian Cruz
-Daniel Cuellar
 Group #3
+David Buitrago 20221020085
+Cristian Cruz 202210200125
+Daniel Cuellar 20221020081
+
 
 Reinforcement Learning Project
